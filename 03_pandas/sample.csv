@@ -1,0 +1,8 @@
+measureID,date,operator,temperature,measureValue,measureUnit
+MEA001,2022/11/1,suzuki,25,1000,sec
+MEA001,2022/11/1,suzuki,25,1000,sec
+,2022/11/2,yamada,20,999,sec
+MEA002,2022/11/4,sato,room,98,min
+MEA004,3-Nov-22,"adam, smith",18,9,hour
+MEA005,,,15,8,hour
+MEA003,11-05-2022,yamada,,(欠測),
