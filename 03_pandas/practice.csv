@@ -1,0 +1,8 @@
+measureID,date,operator,temperature,measureValue,remarks
+MEA001,2022/11/1,鈴木,25,1000,
+MEA002,2022/11/1,鈴木,,,
+,2022/11/2,山田,20,,欠測値あり。再測定要。
+MEA006,2022/11/4,佐藤,room,98,
+MEA004,3-Nov-22,"アダム,　スミス",18,9,Clear room 02にて測定
+MEA005,,,15,8,Clear room 02にて測定
+MEA003,11-05-2022,山田,,欠測,
