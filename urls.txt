@@ -1,0 +1,31 @@
+■講義資料
+10:00 – 10:50　[講義] Pythonプログラミング スキルアップ講座
+https://colab.research.google.com/drive/1y_AffBzXOmi5UsBvZsKJq_oNg6HmJmpj?usp=share_link
+
+11:00 – 11:50　[講義] Pythonプログラミングの勘所
+https://colab.research.google.com/drive/1DpAVkotk9daaHxpdhbldzqb92aMOCzYc?usp=share_link
+
+13:00 – 13:50　[講義] Pandas 実践編
+https://colab.research.google.com/drive/1Ho6h76-H69SIfKzraHusxKX7BIR3AQpw?usp=share_link
+
+13:00 – 13:50　[講義] Matplotlib 実践編
+https://colab.research.google.com/drive/1fpnfOJHNv2Sz17fDTi3PnhjKPZ2nEFOV?usp=share_link
+
+15:00 – 16:50　[グループワーク] ファイル読み込み・データ加工
+https://colab.research.google.com/drive/1rIgfbunRwBsmlJcYKPFj5glXNvHQJmmK?usp=share_link
+
+10:00 – 11:50　[グループワーク] グラフ出力・保存・フィッティング
+https://colab.research.google.com/drive/1TgFqaPDhlvVkiBq2yceiqR5UNzN8Z-gL?usp=share_link
+
+アンケート
+https://docs.google.com/forms/d/e/1FAIpQLSdrAOgMR8L33RrQ44fjPvjVh8Jon75tKgq-ixXt9JsI1NOpnQ/viewform?usp=share_link
+
+■Teams URL
+1日目
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGI0Yzk1NDgtM2RhOC00YzFlLTgxNDctZDM3NjYxOWQ0ZjNj%40thread.v2/0?context=%7b%22Tid%22%3a%22dca88378-b099-4193-9bb0-dfd0fa1bba75%22%2c%22Oid%22%3a%22c6066926-4b04-44f6-a5cc-687381978a56%22%7d
+
+2日目
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDZhOGVlNGItNjIyNy00NDU2LWJjZGMtODU3ZDE2ZDdhOTlh%40thread.v2/0?context=%7b%22Tid%22%3a%22dca88378-b099-4193-9bb0-dfd0fa1bba75%22%2c%22Oid%22%3a%22c6066926-4b04-44f6-a5cc-687381978a56%22%7d
+
+■ipynb、pdf
+https://github.com/tendo-sms/python_intermediate_2022/raw/main/files.zip
